@@ -13,7 +13,7 @@ RUN npm install
 
 COPY . .
 
-# Expose a port (optional, if your app uses a specific port)
+# #Expose a port (optional, if your app uses a specific port)
 EXPOSE 3000
 
 # Define the command to run the application
